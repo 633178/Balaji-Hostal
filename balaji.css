@@ -2,6 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuaBEyLZZW4M98bCUgKkoog1zrEwlCebkFhg&s);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
 }
 
 header {
@@ -13,6 +18,7 @@ header {
 
 h1 {
     margin: 0;
+    color: black;
 }
 
 nav {
@@ -51,9 +57,9 @@ iframe {
 }
 
 h2 {
-    color: #333;
+    color: #f3efef;
 }
 
 p {
-    color: #555;
+    color: #f3f1f1;
 }
